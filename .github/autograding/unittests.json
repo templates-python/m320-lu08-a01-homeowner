@@ -1,7 +1,17 @@
 [
   {
-    "name": "test",
-    "function": "test",
+    "name": "test_house",
+    "function": "test_house",
+    "timeout": 10,
+    "points": 1
+  },{
+    "name": "test_owner",
+    "function": "test_owner",
+    "timeout": 10,
+    "points": 1
+  },{
+    "name": "test_print",
+    "function": "test_print",
     "timeout": 10,
     "points": 1
   }
